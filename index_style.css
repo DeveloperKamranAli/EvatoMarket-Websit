@@ -1,0 +1,608 @@
+/* google fons */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+/*  Header */
+
+
+.enovate-top-logo {
+    font-size: 1.5rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    color: #ffffff;
+}
+
+.enovate-top-logo span {
+    font-size: 1.5rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #569a37;
+}
+
+.top-hed-btn button {
+    background-color: #82b440;
+    padding: 7px 25px;
+    border-radius: 6px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    border: none;
+    outline: none;
+}
+
+
+/* -- Grean Nav -- */
+
+.Grean-nav {
+    background-color: #7fb53e;
+    padding: 10px;
+}
+
+.grean-nav-heading {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.dropdown a {
+    border: 0px;
+    border-right: 1px solid gray;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.drop-down-name {
+    color: white;
+}
+
+
+
+/* -- White Nav -- */
+
+
+.white-nav-main {
+    background-color: #ffffff;
+    padding: 10px 10px;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    border-radius: 8px;
+}
+
+.phone-texxt {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    padding-top: 10px;
+    line-height: 10px;
+}
+
+.magefire-glass {
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+
+.dropdown {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 15px;
+}
+
+.dropdown-menu {
+    background-color: white !important;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.dropdown-menu li {
+    padding: 4px 20px;
+}
+
+.dropdown-menu li a {
+    color: rgb(0, 0, 0);
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.dropdown-menu li a:hover {
+    color: #7fb53e;
+}
+
+.itmcart {
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 12px;
+    color: rgb(0, 0, 0);
+    border-bottom: #569a37 1px solid;
+}
+
+
+.dropdown-menu input {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    padding: 4px 20px;
+    border-radius: 4px;
+    border: none;
+    outline: none;
+    border-bottom: #569a37 1px solid;
+
+}
+
+.dropdown-menu input:focus {
+    background-color: none;
+}
+
+.white-nav-bottom {
+    background-color: rgb(255, 255, 255) !important;
+    border-top: #569a37 1px solid;
+    padding-top: 8px;
+
+}
+
+
+/* -- oFFCANVA  -- */
+
+
+.offcanvas-header {
+    background-color: #7fb53e;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 15px;
+}
+
+
+.nav-itms ul {
+
+
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    list-style: none;
+}
+
+.nav-itms a {
+    text-decoration: none;
+    color: black;
+}
+
+
+details summary {
+    list-style: none;
+}
+
+
+.sub {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    list-style: none;
+    padding-left: 24px;
+    padding-top: 10px;
+}
+
+.subs-summary {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    list-style: none;
+    padding-left: 34px;
+    line-height: 10px;
+    padding-top: 10px;
+}
+
+
+.MAIN {
+    padding-top: 20px;
+}
+
+
+.MAIN:hover {
+    color: #569a37;
+    cursor: pointer;
+}
+
+.arrow-icon {
+    background-color: green;
+}
+
+
+.offcanvabtn {
+    display: none;
+}
+
+
+/* text hero S */
+
+.carousel-item img {
+    border-radius: 10% 10% 67% 68% / 10% 10% 23% 23%;
+}
+
+.main-bgcolor {
+    background-color: rgb(247, 247, 247);
+}
+
+.get-flat {
+    top: 40%;
+    font-family: "Roboto", sans-serif;
+}
+
+.shop-now {
+    background-color: #82b440;
+    border: none;
+    border-radius: 10px;
+    padding: 5px 20px;
+    font-size: 2vh;
+}
+
+.shop-now:focus {
+    outline: none;
+}
+
+.shop-now:hover {
+    background: black !important;
+}
+
+
+
+/* top catagries section */
+
+.card-title {
+    top: 14px;
+}
+
+.MULTIGRAIN-card {
+    display: none;
+}
+
+.banner-1-card {
+    transition: transform 1.5s;
+    
+}
+
+.banner-1-card:hover {
+    transform: scale(1.1);
+    /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+
+/* trending cards section */
+
+.trending-button .Featured {
+    background-color: #82b440;
+    border: none;
+}
+
+.trending-button .Featured:focus {
+    outline: none;
+}
+
+.trending-button .latest:hover {
+    background-color: #82b440 !important;
+    color: white;
+}
+
+.trending-button .latest:focus {
+    outline: none;
+}
+
+.flags-discount p {
+    margin-top: 10px;
+}
+
+.flags-discount .card-flags1 {
+    background-color: #82b440;
+    width: 6vh;
+    text-align: center;
+    padding: 3px 10px 10px 0;
+    clip-path: polygon(0 9%, 72% 9%, 88% 43%, 73% 73%, 0 73%);
+}
+
+.flags-discount .card-flags2 {
+    background-color: red;
+    width: 6vh;
+    text-align: center;
+    padding: 3px 2px 3px 2px;
+    clip-path: polygon(17% 18%, 100% 18%, 100% 84%, 21% 83%, 0% 50%);
+}
+
+.butto-star i {
+    border-radius: 50px;
+    background-color: #fff;
+    border: 1px dashed #e5e5e5;
+}
+
+.butto-star img {
+    margin-top: 130px;
+}
+
+.text-cards {
+    font-size: 10px;
+    color: #83b440;
+}
+
+.text-cards p {
+    border-bottom: 1px solid #82b440;
+}
+
+/* our testimonial */
+
+.bg_img-simple {
+    background-image: url("./imgs/our\ testimenal\ bg-img\ 01f5bc87bcdac16642781a4cb15284ab.jpg");
+    position: absolute;
+    z-index: 0;
+}
+
+.carousel-control-prev span {
+    top: 118px;
+}
+
+.airplan-icon-cart .icon-carts {
+    margin-top: -47px;
+    padding: 10px;
+}
+
+.plain-color i {
+    color: #379a4c;
+    border: 1px solid #82b440;
+    border: 1px dashed;
+    border-radius: 50px;
+    padding: 4px 10px;
+}
+
+.plain-color i:hover {
+    background-color: #569a37;
+    color: white;
+}
+
+.background-color-icons {
+    background-color: white;
+    position: absolute;
+    height: 70%;
+    width: 100%;
+}
+
+/* Special-Products */
+
+.Special-Products {
+    padding-top: 60px;
+}
+
+
+/*sregfoerget;lgker  */
+
+.card-group .card-body {
+    width: 80%;
+}
+
+.bg-color-G {
+    background-color: rgb(122, 184, 49);
+}
+
+.NEWSLETTER i {
+    font-size: 50px !important;
+}
+
+.input-email {
+    background: none;
+}
+
+.input-email:focus {
+    outline: none;
+}
+
+
+/* footer section  */
+
+.bg-color-icon {
+    border-radius: 50px;
+}
+
+
+
+@media (max-width: 1000px) {
+    .w-heading {
+        display: none;
+    }
+
+    .telephone i {
+        display: none;
+    }
+
+    .telephone p {
+        display: none;
+    }
+
+    .navbar {
+        background: none;
+    }
+
+    .offcanvs-hid {
+        display: flex !important;
+    }
+
+    .navbar-nav {
+        display: none !important;
+    }
+
+    .carousel-item img {
+        border-radius: 0;
+    }
+
+    /* top catagries section */
+
+    .carousel-item img {
+        width: 100%;
+        height: 300px;
+    }
+
+    /* tranding pro */
+    .butto-star i {
+        margin: 0px;
+        font-size: 11px;
+    }
+
+    .img-star img {
+        width: 14px !important;
+    }
+
+    /* hh */
+    .shop-now {
+        background-color: #82b440;
+        border: none;
+        border-radius: 10px;
+        padding: 5px 10px;
+        font-size: 1vh;
+    }
+
+    /* our testimonial */
+    .girl-img img {
+        height: auto;
+        width: 70px;
+    }
+
+}
+
+@media (max-width: 500px) {
+
+    .classic-section {
+        flex-direction: column;
+    }
+
+}
+
+
+@media (max-width: 1000px) {
+    .grean-nav-heading {
+        display: none;
+    }
+
+
+    .White-nav-contact i {
+        display: none;
+    }
+
+    .ph-logo {
+        display: none;
+    }
+
+    .navbar {
+        background: none;
+    }
+
+    .offcanvs-hid {
+        display: flex !important;
+    }
+
+    .navbar-nav {
+        display: none !important;
+    }
+
+    .carousel-item img {
+        border-radius: 0;
+    }
+
+    /* top catagries section */
+
+    .carousel-item img {
+        width: 100%;
+        height: 300px;
+    }
+
+    /* tranding pro */
+    .butto-star i {
+        margin: 0px;
+        font-size: 11px;
+    }
+
+    .img-star img {
+        width: 14px !important;
+    }
+
+    /* hh */
+    .shop-now {
+        background-color: #82b440;
+        border: none;
+        border-radius: 10px;
+        padding: 5px 10px;
+        font-size: 1vh;
+    }
+
+    /* our testimonial */
+    .girl-img img {
+        height: auto;
+        width: 70px;
+    }
+
+
+}
+
+
+
+
+/* navbare media Q */
+
+
+
+@media (max-width: 770px) {
+    .offcanvabtn {
+        display: flex;
+    }
+
+    .white-nav-bottom {
+        display: none;
+    }
+
+
+    .orgna-lgo img {
+        width: 100px
+    }
+
+
+    .phone-texxt {
+        font-size: 10px;
+    }
+
+
+    .w-top-last-icons {
+        gap: empty;
+
+    }
+
+    .dropdown button img {
+        width: 10px;
+        gap: 0;
+
+    }
+}
